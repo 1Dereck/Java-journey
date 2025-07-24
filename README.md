@@ -23,7 +23,7 @@ Este repositório contém:
 ## 🛠️ Tecnologias e ferramentas
 
 - Java JDK 🧰  
-- IntelliJ / VSCode / Eclipse (IDE à escolha)  
+- IntelliJ  
 - Git e GitHub para versionamento 🔄  
 
 ---
