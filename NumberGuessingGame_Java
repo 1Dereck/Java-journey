@@ -1,0 +1,39 @@
+import java.util.Random;
+import java.util.Scanner;
+
+public class AdivinhaNumerica {
+    public static void main(String[] args) {
+
+        Scanner numero = new Scanner(System.in);
+
+        int sorteioNumerico = new Random().nextInt(20);
+        int numeroDigitado;
+        int tentativas = 0;
+
+        System.out.println("\n\n------------ Jogo de Adivinhação ------------");
+        System.out.println("Tente adivinhar o número entre 0 e 20.");
+        System.out.println("Você tem 5 tentativas.");
+        System.out.println("Dica: direi se o número é maior ou menor.");
+        System.out.println("---------------------------------------------\n");
+
+        while (tentativas < 5) {
+            System.out.print("Tentativa " + (tentativas + 1) +": ");
+            numeroDigitado = numero.nextInt();
+            tentativas++;
+
+           if (numeroDigitado == sorteioNumerico) {
+               System.out.println("Parabéns! Você acertou o número sorteado! ");
+               break;
+           }
+           else if (numeroDigitado > sorteioNumerico){
+               System.out.println("O número do sorteio é menor. Tente novamente...");
+           }
+           else {
+               System.out.println("O número do sorteio é maior. Tente novamente...");
+           }
+           if (tentativas == 5) {
+               System.out.println("\nVocê usou todas as tentativas. O número era: " + sorteioNumerico);
+           }
+        }
+    }
+}
