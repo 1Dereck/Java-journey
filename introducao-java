@@ -1,0 +1,21 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String nome = "Dereck";
+        int idade = 19;
+        double altura = 1.70;
+        float peso = 76.32F;
+
+        /*
+         * Sempre que o texto usar marcadores de formatação (%s, %d, %.2f, %n),
+         * é necessário usar printf em vez de println.
+         *
+         * O printf permite substituir cada marcador pela variável correspondente
+         * sem precisar concatenar textos com o operador +.
+         * Exemplo sem printf:
+         * "Minha idade é " + idade + " e meu peso é " + peso
+         */
+
+        System.out.printf("Olá, meu nome é %s e tenho %d anos. %nE tenho %.2f de altura e o meu peso atual é %.2f%n", nome, idade, altura, peso);
+    }
+}
