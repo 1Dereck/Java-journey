@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String[] args) {
+
+        // Cálculo da área do trapézio
+        double b = 6.0, B = 8.0, h = 5.0;
+        double area = ((b + B) / 2.0) * h;
+
+        System.out.printf("A área do trapézio é: %.2f%n", area);
+
+        // Divisão com casting para garantir resultado decimal
+        int num1 = 5, num2 = 2;
+        double resultado = (double) num1 / num2; // evita divisão inteira
+
+        System.out.printf("A divisão de %d por %d resulta em: %.2f%n", num1, num2, resultado);
+
+    }
+}
