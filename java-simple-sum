@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main (String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int num1, num2, soma;
+
+        System.out.println("Digite num1 e num2 e tenha o resultado da soma entre os dois!\n");
+
+        System.out.print("num1 = ");
+        num1 = sc.nextInt();
+
+        System.out.print("num2 = ");
+        num2 = sc.nextInt();
+
+        soma = num1 + num2;
+
+        System.out.printf("\nA soma de %d + %d = %d%n", num1, num2, soma);
+
+    }
+}
