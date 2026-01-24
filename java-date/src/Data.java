@@ -29,8 +29,11 @@ public class Data {
         System.out.print("Preencha o ano: ");
         p2.ano = sc.nextInt();
 
-        System.out.printf("Primeiros dados preenchidos: %d/%d/%d%n", p1.dia, p1.mes, p1.ano);
-        System.out.printf("Segundos dados preenchidos: %d/%d/%d%n", p2.dia, p2.mes, p2.ano);
+        p1.diaMesAno();
+        p2.diaMesAno();
 
+        System.out.println("----------------------------------");
+        System.out.printf(p1.obterDataFormatada());
+        System.out.printf(p2.obterDataFormatada());
     }
 }
