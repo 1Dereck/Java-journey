@@ -1,3 +1,14 @@
+<h1 align="center">☕ Java Journey</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" alt="Java Language Logo"/>
+</p>
+
+<p align="center">
+  Repository created to document my learning journey with <strong>Java</strong>,  
+  from fundamental concepts to advanced topics and real-world projects.  
+  This repository serves both as a study log and a professional portfolio.
+</p>
 # ☕ Java Journey
 
 This repository represents my **complete learning journey with Java**, from basic concepts to advanced technologies used in real-world applications.
