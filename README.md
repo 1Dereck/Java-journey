@@ -5,17 +5,16 @@
 </p>
 
 <p align="center">
-  Repository created to document my learning journey with <strong>Java</strong>,  
+  Repository created to document my learning journey in <strong>Java</strong>,  
   from fundamental concepts to advanced topics and real-world projects.  
   This repository serves both as a study log and a professional portfolio.
 </p>
-# ☕ Java Journey
 
-This repository represents my **complete learning journey with Java**, from basic concepts to advanced technologies used in real-world applications.
-
-The purpose of this project is to **learn Java deeply**, build **strong foundations in programming and software engineering**, and document my progress through **organized, well-structured, and practical projects**.
-
-This repository is both a **study environment** and a **professional portfolio**.
+<p align="center">
+  The purpose of this project is to <strong>learn Java deeply</strong>, build  
+  <strong>strong foundations in programming and software engineering</strong>,  
+  and document my progress through organized, well-structured, and practical projects.
+</p>
 
 ---
 
@@ -23,10 +22,14 @@ This repository is both a **study environment** and a **professional portfolio**
 
 - Learn Java from **beginner to advanced level**
 - Build strong **algorithm and data structure foundations**
+- Develop solid **programming logic**
 - Fully understand **Object-Oriented Programming (OOP)**
-- Work with **databases and persistence frameworks**
+- Apply **OOP principles** in real projects
+- Work with **relational and non-relational databases**
+- Use **persistence frameworks** such as JPA (Hibernate)
 - Apply **functional programming** concepts in Java
-- Develop **desktop and backend applications**
+- Develop **desktop applications**
+- Build **RESTful APIs and backend services**
 - Create **real projects** to consolidate knowledge
 
 ---
@@ -34,13 +37,16 @@ This repository is both a **study environment** and a **professional portfolio**
 ## 📚 Learning Roadmap
 
 ### 🧠 Algorithms & Programming Fundamentals
-- Algorithms and Data Structures
+- Algorithms
+- Data Structures
 - Programming Logic
 - Control Structures
 
 ### ☕ Java Language Fundamentals
 - Java Language Fundamentals
-- Classes, Objects, and Methods
+- Classes
+- Objects
+- Methods
 - Object-Oriented Programming (OOP)
 - Encapsulation
 - Inheritance
@@ -56,9 +62,10 @@ This repository is both a **study environment** and a **professional portfolio**
 
 ### 🖥️ Desktop Development
 - JavaFX
+- Swing
 
 ### 🗄️ Databases
-- Relational Databases
+- Relational Databases (SQL)
 - Non-Relational Databases (NoSQL)
 
 ### 🔗 Persistence & ORM
@@ -67,7 +74,7 @@ This repository is both a **study environment** and a **professional portfolio**
 ### 🌐 Backend Development
 - Spring Boot
 - RESTful Web Services
-- Database Integration
+- Database Integration with Spring Boot
 
 ---
 
@@ -75,7 +82,9 @@ This repository is both a **study environment** and a **professional portfolio**
 
 - Java (Core & Advanced)
 - JavaFX
-- JDBC / JPA (Hibernate)
+- Swing
+- JDBC
+- JPA (Hibernate)
 - Spring Boot
 - SQL Databases
 - NoSQL Databases
