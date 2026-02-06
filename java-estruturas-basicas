@@ -1,0 +1,33 @@
+public class Main {
+    public static void main(String[] args) {
+
+        // Utilizar quando os valores já são conhecidos
+        double[] array1 = { 1.2, 32.5, 99.2 };
+
+        // Utilizar Entrada de dados pelo usuário
+        // Quando o tamanho é conhecido, mas os valores não
+        double[] array2 = new double[3];
+
+        // Quando a declaração e a inicialização do array são
+        // separadas, é obrigatório usar new tipo[]{}
+        double[] array3;
+        array3 = new double[]{ 1.2, 32.5 };
+
+        // Array de inteiros apenas para demonstrar o foreach
+        int[] valores = { 10, 20, 30, 40 };
+
+        /*
+         * FOREACH
+         * Estrutura:
+         * for (tipo variavel : array)
+         *
+         * A cada iteração:
+         * - O Java acessa a próxima posição do array
+         * - Copia o valor dessa posição
+         * - Armazena essa cópia na variável 'valor'
+         */
+        for (int valor : valores) {
+            System.out.println(valor);
+        }
+    }
+}
