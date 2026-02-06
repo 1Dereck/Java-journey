@@ -1,71 +1,97 @@
 <h1 align="center">☕ Java Journey</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="150" alt="Java Logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="120" alt="Java Language Logo"/>
 </p>
 
 <p align="center">
-🚀 Minha jornada completa de aprendizado em Java — do zero ao avançado — focada em fundamentos sólidos, boas práticas e desenvolvimento de aplicações reais.
+  Repository created to document my learning journey in <strong>Java</strong>,  
+  from fundamental concepts to advanced topics and real-world projects.  
+  This repository serves both as a study log and a professional portfolio.
+</p>
+
+<p align="center">
+  The purpose of this project is to <strong>learn Java deeply</strong>, build  
+  <strong>strong foundations in programming and software engineering</strong>,  
+  and document my progress through organized, well-structured, and practical projects.
 </p>
 
 ---
 
-## 📘 Sobre este repositório
+## 🎯 Main Objectives
 
-Este repositório documenta minha evolução contínua na linguagem **Java**, acompanhando estudos acadêmicos, cursos e projetos práticos.  
-O objetivo é construir uma **base forte de programação**, dominar **Orientação a Objetos**, trabalhar com **banco de dados**, **frameworks modernos** e desenvolver aplicações **desktop e web**.
-
-Aqui você encontrará desde conceitos iniciais até tópicos avançados usados no mercado.
-
----
-
-## 📚 Conteúdos estudados e em desenvolvimento
-
-- 🧮 **Algoritmos e Estruturas de Dados**  
-- ☕ **Fundamentos da Linguagem Java**  
-- 🔁 **Estruturas de Controle**  
-- 🧱 **Classes, Objetos e Métodos**  
-- 🧠 **Orientação a Objetos (OOP)**  
-  - Encapsulamento  
-  - Herança  
-  - Polimorfismo  
-  - Abstração  
-- ⚠️ **Tratamento de Exceções**  
-- 🔌 **Programação Funcional em Java**
-  - Lambdas  
-  - Stream API  
-- 🖥️ **Java Desktop**
-  - Swing  
-  - JavaFX  
-- 🗄️ **Banco de Dados**
-  - Relacional (SQL)  
-  - Não Relacional (NoSQL)  
-- 🧩 **JPA / Hibernate**  
-- 🌱 **Spring Boot**
-  - APIs REST  
-  - Integração com banco de dados  
-  - Boas práticas de mercado  
+- Learn Java from **beginner to advanced level**
+- Build strong **algorithm and data structure foundations**
+- Develop solid **programming logic**
+- Fully understand **Object-Oriented Programming (OOP)**
+- Apply **OOP principles** in real projects
+- Work with **relational and non-relational databases**
+- Use **persistence frameworks** such as JPA (Hibernate)
+- Apply **functional programming** concepts in Java
+- Develop **desktop applications**
+- Build **RESTful APIs and backend services**
+- Create **real projects** to consolidate knowledge
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 📚 Learning Roadmap
 
-- Java JDK  
-- IntelliJ IDEA  
-- Git & GitHub 🔄  
-- Banco de Dados (MySQL / SQLite / outros conforme evolução)  
+### 🧠 Algorithms & Programming Fundamentals
+- Algorithms
+- Data Structures
+- Programming Logic
+- Control Structures
+
+### ☕ Java Language Fundamentals
+- Java Language Fundamentals
+- Classes
+- Objects
+- Methods
+- Object-Oriented Programming (OOP)
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+### ⚙️ Functional Programming
+- Lambdas
+- Stream API
+
+### 🧪 Error Handling
+- Exception Handling
+
+### 🖥️ Desktop Development
+- JavaFX
+- Swing
+
+### 🗄️ Databases
+- Relational Databases (SQL)
+- Non-Relational Databases (NoSQL)
+
+### 🔗 Persistence & ORM
+- JPA (Hibernate)
+
+### 🌐 Backend Development
+- Spring Boot
+- RESTful Web Services
+- Database Integration with Spring Boot
 
 ---
 
-## 🎯 Objetivo do projeto
+## 🛠️ Technologies & Tools
 
-- Construir **fundamentos sólidos em programação**
-- Dominar **Java do básico ao avançado**
-- Desenvolver **projetos reais e aplicáveis**
-- Criar um **repositório de estudo e referência**
-- Evoluir para aplicações **desktop e web com Spring Boot**
-- Preparação para **estágio e mercado de trabalho**
+- Java (Core & Advanced)
+- JavaFX
+- Swing
+- JDBC
+- JPA (Hibernate)
+- Spring Boot
+- SQL Databases
+- NoSQL Databases
+- Git & GitHub
 
 ---
 
-📌 *Este repositório está em constante evolução conforme novos conteúdos e projetos são adicionados.*
+<p align="center">
+  🚀 This repository is continuously evolving as I progress in my Java journey.
+</p>
